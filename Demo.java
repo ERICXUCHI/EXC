@@ -89,4 +89,4 @@ public class Demo extends JDialog implements ActionListener {
             new Demo();
         }
 }
-//Just like the background of Matrix.
+//Just like the background of Matrix, something impressive!
